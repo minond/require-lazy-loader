@@ -1,5 +1,14 @@
+[![Build Status](https://travis-ci.org/minond/require-lazy-loader.svg?branch=master)](https://travis-ci.org/minond/require-lazy-loader)
+[![Coverage Status](https://coveralls.io/repos/minond/require-lazy-loader/badge.png?branch=master)](https://coveralls.io/r/minond/require-lazy-loader?branch=master)
+
 `require-lazy-loader` is a lazy loader for Node.js modules. you use it instead
 of `require` in order to load a module only when it is going to be used.
+
+#### installing
+
+```bash
+npm install require-lazy-loader
+```
 
 #### usage
 
