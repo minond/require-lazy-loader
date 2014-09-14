@@ -1,8 +1,17 @@
 {
   "name": "require-lazy-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "src/lazy.js",
+  "keywords": [
+    "require",
+    "lazy",
+    "lazy loading"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/minond/require-lazy-loader"
+  },
   "scripts": {
     "test": "grunt test"
   },
