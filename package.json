@@ -1,7 +1,7 @@
 {
   "name": "require-lazy-loader",
   "version": "0.0.1",
-  "description": "",
+  "description": "a lazy alternative to node's require",
   "main": "src/lazy.js",
   "keywords": [
     "require",
